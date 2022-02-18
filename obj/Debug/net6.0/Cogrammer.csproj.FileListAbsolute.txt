@@ -1,0 +1,15 @@
+/Users/hilbertmu/Documents/Cogrammer/bin/Debug/net6.0/Cogrammer
+/Users/hilbertmu/Documents/Cogrammer/bin/Debug/net6.0/Cogrammer.deps.json
+/Users/hilbertmu/Documents/Cogrammer/bin/Debug/net6.0/Cogrammer.runtimeconfig.json
+/Users/hilbertmu/Documents/Cogrammer/bin/Debug/net6.0/Cogrammer.dll
+/Users/hilbertmu/Documents/Cogrammer/bin/Debug/net6.0/ref/Cogrammer.dll
+/Users/hilbertmu/Documents/Cogrammer/bin/Debug/net6.0/Cogrammer.pdb
+/Users/hilbertmu/Documents/Cogrammer/obj/Debug/net6.0/Cogrammer.csproj.AssemblyReference.cache
+/Users/hilbertmu/Documents/Cogrammer/obj/Debug/net6.0/Cogrammer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hilbertmu/Documents/Cogrammer/obj/Debug/net6.0/Cogrammer.AssemblyInfoInputs.cache
+/Users/hilbertmu/Documents/Cogrammer/obj/Debug/net6.0/Cogrammer.AssemblyInfo.cs
+/Users/hilbertmu/Documents/Cogrammer/obj/Debug/net6.0/Cogrammer.csproj.CoreCompileInputs.cache
+/Users/hilbertmu/Documents/Cogrammer/obj/Debug/net6.0/Cogrammer.dll
+/Users/hilbertmu/Documents/Cogrammer/obj/Debug/net6.0/ref/Cogrammer.dll
+/Users/hilbertmu/Documents/Cogrammer/obj/Debug/net6.0/Cogrammer.pdb
+/Users/hilbertmu/Documents/Cogrammer/obj/Debug/net6.0/Cogrammer.genruntimeconfig.cache
