@@ -1,4 +1,6 @@
 
+SECTION A: Code Review
+
 OPTION 2 - Java 
 
 Good day Student X, 
@@ -21,6 +23,13 @@ Question 2: Fibonacci series
 1. A good attempt, but there is a lot more work that needs to be done on this solution. There are quite a number of semantic errors that the solution has that need to be fixed. In addition, you hardcoded the solution in line 11. Overall the solution was not correct and will not solve the problem. 
 2. While using loops is more efficient with bigger data set, the question requires you to use a recursive approach to solve the solution.
 3. Scope - on line 30 you redfined the maxNumber variable which was already within the same scope (in the definition of the method) and that resulted in some syntax errors, ideally you should have assigned the argument passed in on the method to the local max variable you were creating within that function 
+
+
+SECTION B: 
+https://github.com/hilbertdev/chrome-extension.git 
+
+SECTION C:
+https://github.com/hilbertdev/isbnSolution.git
 
 
 
