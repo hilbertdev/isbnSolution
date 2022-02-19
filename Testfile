@@ -1,0 +1,38 @@
+using Xunit;
+using helperClass;
+
+namespace ISBNTests;
+
+public class UnitTest1
+{
+
+    [Theory]
+    [InlineData("0316066524", "9780316066525")]
+    [InlineData("3866155239", "9783866155237")]
+    [InlineData("817450494X", "9788174504944")]
+    [InlineData("0345453747", "Invalid")]
+    public void ISBN10_isValid(string input, string expectedOutput)
+    {
+        ISBN10 iSBN10 = new ISBN10(input, input.Length);
+        Assert.Equal(expectedOutput, iSBN10.IsISBNtenValid());
+    }
+
+    [Theory]
+    [InlineData("9780316066525")]
+    [InlineData("9783866155237")]
+    [InlineData("9780345453747")]
+    public void ISBN13_isValid(string input)
+    {
+        ISBN13 iSBN10 = new ISBN13(input, input.Length);
+        Assert.Equal("Valid", iSBN10.isISBNThirteenValid());
+    }
+
+
+    [Theory]
+    [InlineData("9783876155237")]
+    public void ISBN13_isInValid(string input)
+    {
+        ISBN13 iSBN10 = new ISBN13(input, input.Length);
+        Assert.Equal("Invalid", iSBN10.isISBNThirteenValid());
+    }
+}
